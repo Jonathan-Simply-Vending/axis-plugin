@@ -1,0 +1,27 @@
+{
+  "name": "axis",
+  "displayName": "Axis",
+  "version": "1.0.0",
+  "description": "Free connector for your own Axis account. Tasks, projects, notes, calendar, habits, goals, journal, health, and finances, with the scopes you choose.",
+  "author": {
+    "name": "Jonathan-Simply-Vending"
+  },
+  "homepage": "https://axisproductivityapp.com",
+  "repository": "https://github.com/Jonathan-Simply-Vending/axis-plugin",
+  "license": "MIT",
+  "keywords": [
+    "axis",
+    "productivity",
+    "tasks",
+    "projects",
+    "notes",
+    "calendar",
+    "habits",
+    "goals",
+    "journal",
+    "health",
+    "finances",
+    "mcp"
+  ],
+  "logo": "assets/logo.png"
+}

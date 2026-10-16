@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "axis": {
+      "type": "http",
+      "url": "https://axisproductivityapp.com/mcp"
+    }
+  }
+}
